@@ -1,0 +1,1 @@
+# Global_synchronization_in_time_varying_hypergraphs
